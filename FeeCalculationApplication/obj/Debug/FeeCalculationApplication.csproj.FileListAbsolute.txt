@@ -1,0 +1,10 @@
+C:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\bin\Debug\FeeCalculationApplication.exe.config
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\bin\Debug\FeeCalculationApplication.exe
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\bin\Debug\FeeCalculationApplication.pdb
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\obj\Debug\FeeCalculationApplication.Properties.Resources.resources
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\obj\Debug\FeeCalculationApplication.csproj.GenerateResource.Cache
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\obj\Debug\FeeCalculationApplication.exe
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\obj\Debug\FeeCalculationApplication.pdb
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\obj\Debug\FeeCalculationApplication.csprojResolveAssemblyReference.cache
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\obj\Debug\FeeCalculationApplication.MainForm.resources
+E:\Data\代码\项目库\费用计算\FeeCalculationApplication\FeeCalculationApplication\bin\Debug\config.xml
